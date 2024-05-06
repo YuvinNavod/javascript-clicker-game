@@ -1,0 +1,15 @@
+#shape
+{
+    background-color: salmon;
+    display: none;
+    position: relative;
+}
+
+p
+{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(107, 9, 235);
+    text-align: center;
+    font-family: fantasy;
+}
